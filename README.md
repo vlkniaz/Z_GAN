@@ -42,7 +42,7 @@ pip install dominate
 ```
 - Clone this repo:
 ```bash
-git clone https://github.com/vlkniaz/ThermalGAN.git
+git clone https://github.com/vlkniaz/Z_GAN
 ```
 
 ### Z-GAN train/test
