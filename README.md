@@ -47,7 +47,9 @@ git clone https://github.com/vlkniaz/Z_GAN
 
 ### Z-GAN train/test
 - Go to the repo directory
-```cd Z_GAN```
+```
+cd Z_GAN
+```
 
 - Download a Z-GAN dataset:
 ```bash
