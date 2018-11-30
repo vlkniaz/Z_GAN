@@ -1,0 +1,1 @@
+CUDA_CACHE_PATH='/home/user/cudacache' python test.py --dataroot ./datasets/mini --name z_gan --model z_gan --which_model_netG znet_256 --which_direction AtoB --input_nc 3 --output_nc 1 --loadSize 256 --fineSize 256 --dataset_mode fruxel --how_many 412 --norm batch 
