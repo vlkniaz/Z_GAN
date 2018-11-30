@@ -64,7 +64,7 @@ bash scripts/train_zgan.sh
 ```bash
 bash scripts/test_zgan.sh
 ```
-The test results will be saved to a html file here: `./results/z_gan/latest_test/index.html`.
+The test results will be saved to a html file here: `./results/z_gan/test_latest/index.html`.
 
 ### Apply a pre-trained model (Z-GAN)
 
@@ -83,4 +83,6 @@ bash ./datasets/download_zgan_dataset.sh mini
 ```bash
 bash scripts/test_zgan_pretrained.sh
 ```
+
+- The test results will be saved to a html file here: `./results/Z_GAN_pretrained/test_latest/index.html`.
 
